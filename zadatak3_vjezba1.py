@@ -18,7 +18,7 @@ while True:
         print('Pogreška')
 k=(y2-y1)/(x2-x1) #koeficijent smjera
 z=y1-k*x1
-print(f'Jednadžba pravcaje y:{k:.2f}x+{z:.2f}')
+print(f'Jednadžba pravcaje y={k:.2f}x+{z:.2f}')
 
 
-    
+     
